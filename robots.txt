@@ -1,0 +1,13 @@
+# Nothing to see here, but thanks for the hit!
+
+User-agent: *
+Allow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
